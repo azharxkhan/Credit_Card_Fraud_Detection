@@ -1,6 +1,11 @@
+#Virtual Environment
 .venv
 .env
 .ven
 venv
 env
 ven
+
+#data files
+*.csv
+*.zip
